@@ -5,5 +5,6 @@ target
 *.md
 !README.md
 !CHANGELOG.md
+!docs/**/*.md
 # keep AGENTS.md ignored even though it consolidates other docs
 AGENTS.md
